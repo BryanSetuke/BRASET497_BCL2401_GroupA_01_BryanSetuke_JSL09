@@ -1,4 +1,4 @@
-# [JSL09] Scrimba Project
+# [JSL09]: Promise Rejection Dashboard Challenge
 
 ## Description
 
